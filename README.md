@@ -59,17 +59,7 @@ const dennis = {
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight)](https://git.io/streak-stats)
 
-## 🌟 Featured Projects
 
-### AI-Enhanced Applications
-<div align="left">
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=project-1&theme=tokyonight" />
-  </a>
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=project-2&theme=tokyonight" />
-  </a>
-</div>
 
 ## 💡 AI Development Workflow
 ```mermaid
