@@ -48,10 +48,12 @@ const dennis = {
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" alt="Dennis's GitHub stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" alt="Dennis's top languages"/>
-</div>
+<h2 align="center">📊 My Github Stats<h2>
+<div>
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=iblessdeno&theme=radical" alt="iblessdeno" height="250px" width="47%" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=iblessdeno&show_icons=true&theme=radical" height="255px" width="47%"/>
+<div>
+  </br>
 
 ## 🔥 Contribution Streak
 
